@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Competitive Programming / Personal Projects<br>👯 I’m looking to collaborate on web development  <br>🤝 I’m looking for help with Web Dev<br>🌱 I’m currently learning HTML/CSS/PYTHON/JS<br>
+🔭 I’m currently working on Competitive Programming / Personal Projects<br>👯 I’m looking to collaborate on Competitive Programming  <br>🤝 I’m looking for help with Web Dev<br>🌱 I’m currently learning HTML/CSS/PYTHON/JS<br>
 
 
 ## 🌐 Socials:
